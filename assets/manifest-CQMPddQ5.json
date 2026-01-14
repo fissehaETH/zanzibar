@@ -1,0 +1,24 @@
+
+{
+  "name": "Zanzibar Lounge & Restaurant Menu",
+  "short_name": "Zanzibar Menu",
+  "description": "The official digital menu of Zanzibar Lounge & Restaurant Hawassa.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#78350f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1046/1046747.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1046/1046747.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
